@@ -1,2 +1,4 @@
 # MobileGroup
-The stock dash board mobile application for our group project
+The stock dash board mobile application for our group projectphv
+
+vhv
