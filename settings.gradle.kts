@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "StockDashBoard"
+rootProject.name = "testAPI"
 include(":app")
  
