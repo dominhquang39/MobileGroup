@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "testAPI"
+rootProject.name = "testChart"
 include(":app")
  
