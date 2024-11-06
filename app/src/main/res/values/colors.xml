@@ -2,4 +2,17 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bar">#303847</color>
+    <color name="backgroundcolor">#1e2632</color>
+    <color name="white70">#B2FFFFFF</color>
+    <color name ="gray">#585F6E</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white_grey_40">#66FFFFFF</color>
+    <color name="option_background">#585F6E</color>
+    <color name="menu_background">#303847</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>

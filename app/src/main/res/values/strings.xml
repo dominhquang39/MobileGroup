@@ -1,3 +1,88 @@
 <resources>
-    <string name="app_name">testChart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">Stock Dashboard</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_button">Back Button</string>
+    <string name="contact">Contact us at:</string>
+    <string name="chat_button">Chat Button</string>
+    <string name="contact_link">discordlink.usth.edu.vn</string>
+    <string name="conditions_intro">1. Introduction</string>
+    <string name="eligibility">1.1 Eligibility:</string>
+    <string name="eligibility_content">You must be at least 18 years old and legally capable of entering into binding agreements to use the App.</string>
+    <string name="user_obligations">2. User Obligations</string>
+    <string name="account_registration">2.1 Account Registration</string>
+    <string name="account_registration_content">To access certain features of the App, you may need to register for an account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.</string>
+    <string name="stockmarket_data_info">3. Stock Market Data and Information</string>
+    <string name="third_party_data">3.1 Third-Party Data:</string>
+    <string name="third_party_data_content">The App may include data from third-party sources. We do not control and are not responsible for the accuracy, availability, or reliability of third-party content.</string>
+    <string name="market_risks">3.2 Market Risks:</string>
+    <string name="market_risks_content">The stock market involves inherent risks. Users acknowledge and accept these risks and agree that the App shall not be held responsible for any losses resulting from market activities.</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="AMZN">AMZN</string>
+    <string name="Amazon_com_inc">Amazon.com inc.</string>
+    <string name="amazon_stock">2.45%</string>
+    <string name="amazon_term">1 year return</string>
+    <string name="hourly_term">Hourly</string>
+    <string name="amazon_stock_line">Amazon Stock Line</string>
+    <string name="buy_coin_button">BUY COIN</string>
+    <string name="app_logo">App Logo</string>
+    <string name="my_account">My Account</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="profile_name">Nguyen Van A</string>
+    <string name="profile_email">anv.22bi13000@usth.edu.vn</string>
+    <string name="help_button">Help and Resources</string>
+    <string name="conditions_button">Terms and conditions</string>
+    <string name="logout_button">Logout</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="analytics">Analytics</string>
+    <string name="credit_card">Credit card</string>
+    <string name="help_icon">Help icon</string>
+    <string name="chevron_icon">Chevron</string>
+    <string name="term_icon">term icon</string>
+    <string name="logout_icon">logout icon</string>
+    <string name="user_profile">User profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>

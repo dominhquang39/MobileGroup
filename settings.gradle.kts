@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "testChart"
+rootProject.name = "StockDashBoard"
 include(":app")
  
